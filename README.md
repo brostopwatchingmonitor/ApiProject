@@ -14,10 +14,10 @@ This project demonstrates how to create a basic API using Laravel 11 and display
 
 ## 📋 Table of Contents
 
-1. [Installation](#installation)
-2. [Setting up the API](#setting-up-the-api)
-3. [Displaying API Data in Blade](#displaying-api-data-in-blade)
-4. [Testing the Application](#testing-the-application)
+1. [Installation](#-installation)
+2. [Setting up the API](#-setting-up-the-api)
+3. [Displaying API Data in Blade](#-displaying-api-data-in-blade)
+4. [Testing the Application](#-testing-the-application)
 
 ---
 
